@@ -76,9 +76,9 @@ dependencies = [
 
 [[package]]
 name = "botan-src"
-version = "0.21903.0"
+version = "0.21903.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f8b4d73c078708baaa5dd6e306e562b598abefae1de0d929ea5ed21b1b16f053"
+checksum = "beb7bc6140fe563408b7ac7593897bbd589a284887a1d7a55f106df008a5d0a5"
 
 [[package]]
 name = "botan-sys"
